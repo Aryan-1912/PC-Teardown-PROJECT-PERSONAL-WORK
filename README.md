@@ -15,8 +15,7 @@ Hands-on hardware build, troubleshooting, and system restoration documentation.
 ---
 
 ## Hardware Teardown
-
-![Laptop internals — RAM, motherboard, cooling fan, M.2 SSD](laptop_disassembly_internals.jpg)
+<img width="3024" height="4032" alt="IMG_0022" src="https://github.com/user-attachments/assets/d700aa8e-25e9-474f-b970-5ab5b5ba919c" />
 
 ---
 
